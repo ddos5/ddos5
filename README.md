@@ -26,4 +26,8 @@
     <img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
+  <br/>
+
+  <img src="https://www.codewars.com/users/USERNAME/badges/large" alt="Codewars Badge">
+
 </div>
