@@ -28,6 +28,6 @@
 
   <br/>
 
-  <img src="https://www.codewars.com/users/USERNAME/badges/large" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/ddos5/badges/large" alt="Codewars Badge">
 
 </div>
