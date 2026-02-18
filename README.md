@@ -1,13 +1,13 @@
 <div align="center">
 
-  <h1> ☕ </h1>
+  <h1> 🚀 Code. Commit. Repeat. </h1>
   
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddos5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddos5&layout=compact&theme=dracula"/>
-  </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddos5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddos5&layout=compact&theme=dracula"/>
+</a>
 
   <br/><br/>
 
