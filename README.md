@@ -2,6 +2,12 @@
 
   <h1> 🚀 Code. Commit. Repeat. </h1>
 
+  <a href="https://ddos5.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4ade80?style=for-the-badge&logo=googlechrome&logoColor=0b0f19" alt="Portfolio" />
+  </a>
+
+  <br/><br/>
+
   <table>
     <tr>
       <td width="50%">
